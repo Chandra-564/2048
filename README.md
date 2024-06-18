@@ -1,0 +1,6 @@
+- [3×3](https://chandra-564.github.io/2048/3x3): 256 tile
+- [4×4](https://chandra-564.github.io/2048/8x8): 2048 tile
+- [5×5](https://chandra-564.github.io/2048/8x8): 8192 tile
+- [6×6](https://chandra-564.github.io/2048/8x8): 32768 tile
+- [7×7](https://chandra-564.github.io/2048/8x8): 262144 tile
+- [8×8](https://chandra-564.github.io/2048/8x8): 4194304 tile
